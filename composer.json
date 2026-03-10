@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lirnie",
+            "email": "l1rnend@yandex.by"
+        }
+    ],
+    "require": {}
+}
