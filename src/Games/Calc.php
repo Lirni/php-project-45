@@ -29,6 +29,8 @@ function runGame()
             case '*':
                 $correctAnswer = $num1 * $num2;
                 break;
+            default:
+                rerurn 0;
         }
 
         $rounds[] = [$question, (string) $correctAnswer];
