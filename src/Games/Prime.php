@@ -19,7 +19,7 @@ function isPrime(int $num): bool
     return true;
 }
 
-function runGame()
+function runGame(): void
 {
     $rounds = [];
 

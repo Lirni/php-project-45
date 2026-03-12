@@ -6,7 +6,7 @@ use function BrainGames\Engine\run;
 
 const DESCRIPTION = 'What is the result of the expression?';
 
-function runGame()
+function runGame(): void
 {
     $rounds = [];
     $operators = ['+', '-', '*'];
@@ -30,7 +30,7 @@ function runGame()
                 $correctAnswer = $num1 * $num2;
                 break;
             default:
-                return 0;
+                break;
         }
 
         $rounds[] = [$question, (string) $correctAnswer];

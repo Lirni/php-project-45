@@ -6,7 +6,7 @@ use function BrainGames\Engine\run;
 
 const DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-function runGame()
+function runGame(): void
 {
     $rounds = [];
     for ($i = 0; $i < \BrainGames\Engine\ROUNDS_COUNT; $i++) {
