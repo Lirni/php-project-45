@@ -30,7 +30,7 @@ function runGame()
                 $correctAnswer = $num1 * $num2;
                 break;
             default:
-                rerurn 0;
+                return 0;
         }
 
         $rounds[] = [$question, (string) $correctAnswer];
