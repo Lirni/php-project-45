@@ -5,7 +5,9 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Lirni_php-project-45&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Lirni_php-project-45)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Lirni_php-project-45&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Lirni_php-project-45)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Lirni_php-project-45&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Lirni_php-project-45)
-
+brain-even:
 [![asciicast](https://asciinema.org/a/stYDJUFqG5WEqJs9.svg)](https://asciinema.org/a/stYDJUFqG5WEqJs9)
-
+brain-calc:
 [![asciicast](https://asciinema.org/a/oVV0ylr0zn4TncXE.svg)](https://asciinema.org/a/oVV0ylr0zn4TncXE)
+brain-gcd:
+[![asciicast](https://asciinema.org/a/EEPSjZLFg0XyoHll.svg)](https://asciinema.org/a/EEPSjZLFg0XyoHll)
